@@ -42,3 +42,9 @@ I had to learn Git and GitHub while building the pages, and fix mistakes along t
 ## 🚀 Submission Links
 - **Live Project Demo:** [View Live Site](https://github.io)
 - **Technical Article (Task 2.5):** [Read My Dev.to Article](https://dev.to)
+
+## Technical Article
+https://dev.to/fairyfaiyth/semantic-html-and-accessibility-what-i-learned-4joi
+
+## Technical Article
+https://dev.to/fairyfaiyth/semantic-html-and-accessibility-what-i-learned-4joi
